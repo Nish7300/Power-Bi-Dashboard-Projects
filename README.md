@@ -1,1 +1,4 @@
 # Power-Bi-Dashboard-Projects
+
+•	Built data pipelines and visualizations in Power BI to track and analyze revenue across customer segments.
+•	Enabling personalized marketing campaigns. Leading to a 12% increase in customer retention. Use Live Data Set
